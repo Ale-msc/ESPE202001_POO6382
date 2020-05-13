@@ -1,4 +1,4 @@
-//Librerias
+//Edison Lascano
 #include <iostream>
 #include <stdlib.h>
 #include <conio.h>
@@ -11,7 +11,7 @@ float compute_of_the_addition(float number1, float number2);
 //Main
 int main (){
     float addition,number1,number2;
-    cout<<"Welcome to the addition program."<<endl;
+    cout<<"Welcome to the OOP addition program."<<endl;
     cout<<endl;
     cout<<"Enter the first number"<<endl;
     cin>>number1;
